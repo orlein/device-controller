@@ -1,0 +1,18 @@
+[
+  {
+    "control_resource_id": "POWER",
+    "control_value": 1,
+    "operation_mode": 1,
+    "report_status": 1,
+    "report_time": "2022-10-28 18:30:00.0",
+    "value_state": 1
+  },
+  {
+    "control_resource_id": "SPEED",
+    "control_value": 463,
+    "operation_mode": 1,
+    "report_status": 1,
+    "report_time": "2022-10-28 18:30:00.0",
+    "value_state": 2
+  }
+]

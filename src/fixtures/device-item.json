@@ -1,0 +1,26 @@
+[
+  {
+    "control_name": "전원 제어",
+    "control_resource_id": "POWER",
+    "control_resource_path": "/LIOS/FARMS/SNU-FARM/LS-HOUSES1/STANDARD/ACTUATOR/S30001/POWER",
+    "control_value_type": 1,
+    "control_values": "0:OFF,1:ON",
+    "controllable": true,
+    "device_id": 151,
+    "value_scale": 0,
+    "value_type": 0,
+    "value_unit": ""
+  },
+  {
+    "control_name": "속도(Hz) 제어",
+    "control_resource_id": "SPEED",
+    "control_resource_path": "/LIOS/FARMS/SNU-FARM/LS-HOUSES1/STANDARD/ACTUATOR/S30001/SPEED",
+    "control_value_type": 0,
+    "control_values": "0,600",
+    "controllable": true,
+    "device_id": 151,
+    "value_scale": 0,
+    "value_type": 0,
+    "value_unit": "Hz"
+  }
+]
